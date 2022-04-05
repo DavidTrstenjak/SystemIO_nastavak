@@ -1,0 +1,8 @@
+C:\Users\ucenik\source\repos\System_IO\System_IO\obj\Debug\System_IO.csproj.AssemblyReference.cache
+C:\Users\ucenik\source\repos\System_IO\System_IO\obj\Debug\System_IO.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\source\repos\System_IO\System_IO\obj\Debug\System_IO.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\source\repos\System_IO\System_IO\bin\Debug\System_IO.exe.config
+C:\Users\ucenik\source\repos\System_IO\System_IO\bin\Debug\System_IO.exe
+C:\Users\ucenik\source\repos\System_IO\System_IO\bin\Debug\System_IO.pdb
+C:\Users\ucenik\source\repos\System_IO\System_IO\obj\Debug\System_IO.exe
+C:\Users\ucenik\source\repos\System_IO\System_IO\obj\Debug\System_IO.pdb
